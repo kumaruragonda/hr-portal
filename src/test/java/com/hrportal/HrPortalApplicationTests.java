@@ -1,4 +1,4 @@
-package com.hrportal.hrportal;
+package com.hrportal;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
